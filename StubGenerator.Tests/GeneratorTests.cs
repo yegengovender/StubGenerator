@@ -1,15 +1,17 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using System;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using StubGenerator.Core;
 
-namespace StubConsole
+namespace StubGenerator.Tests
 {
     [TestClass]
-    public class StubGeneratorTests
+    public class GeneratorTests
     {
-        private StubGenerator _stubGenerator;
+        private Generator _stubGenerator;
         [TestInitialize]
         public void Setup()
         {
-            _stubGenerator = new StubGenerator(typeof(ITargetObject));
+            _stubGenerator = new Generator(typeof(ITargetObject));
         }
 
         [TestMethod]
@@ -117,4 +119,5 @@ namespace StubConsole
         }
 
     }
+
 }
