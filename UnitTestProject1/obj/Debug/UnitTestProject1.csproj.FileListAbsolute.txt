@@ -1,0 +1,5 @@
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\StubGenerator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\StubGenerator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\StubGenerator\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\StubGenerator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\StubGenerator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

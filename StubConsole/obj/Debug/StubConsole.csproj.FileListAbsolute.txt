@@ -1,0 +1,6 @@
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\StubGenerator\StubConsole\bin\Debug\StubConsole.exe.config
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\StubGenerator\StubConsole\bin\Debug\StubConsole.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\StubGenerator\StubConsole\bin\Debug\StubConsole.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\StubGenerator\StubConsole\obj\Debug\StubConsole.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\StubGenerator\StubConsole\obj\Debug\StubConsole.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\StubGenerator\StubConsole\obj\Debug\StubConsole.pdb
