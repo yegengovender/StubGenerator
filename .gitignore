@@ -34,3 +34,7 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+/ubGenerator.Core/bin/Debug
+/ubGenerator.Core/obj/Debug
+/ubGenerator.Tests/bin/Debug
+/ubGenerator.Tests/obj/Debug
