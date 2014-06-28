@@ -80,7 +80,7 @@ namespace StubConsole
         }
     }
 
-    public class X
+    public class X: ITargetObject
     {
         public String TheString()
         {

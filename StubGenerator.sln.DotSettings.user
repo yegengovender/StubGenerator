@@ -1,10 +1,15 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=33ED4DA64DC44E06AE8AC26DE73595E2/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=33ED4DA64DC44E06AE8AC26DE73595E2/GroupingIndex/@EntryValue">3</s:Int64>
 	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=33ED4DA64DC44E06AE8AC26DE73595E2/Name/@EntryValue">StubGeneratorTests #2</s:String>
 	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=33ED4DA64DC44E06AE8AC26DE73595E2/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=418553D01FF0477BAA6B5FB15A6D8895/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=418553D01FF0477BAA6B5FB15A6D8895/GroupingIndex/@EntryValue">3</s:Int64>
 	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=418553D01FF0477BAA6B5FB15A6D8895/Name/@EntryValue">StubGeneratorTests</s:String>
 	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=418553D01FF0477BAA6B5FB15A6D8895/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=762C422498404D46AFF44A05155C1B98/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=762C422498404D46AFF44A05155C1B98/Name/@EntryValue">UnitTest1</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=762C422498404D46AFF44A05155C1B98/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:StubGenerator.Tests.MethodFakeTests" type="MsTestTestClassElement" TypeName="StubGenerator.Tests.MethodFakeTests" Project="B76C4F61-9725-4B43-A419-9ACB2B7AF9D5" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:StubGenerator.Tests.MethodFakeTests.MethodHasBody" ParentId="MsTest:StubGenerator.Tests.MethodFakeTests" type="MsTestTestMethodElement" MethodName="MethodHasBody" TypeName="StubGenerator.Tests.MethodFakeTests" Project="B76C4F61-9725-4B43-A419-9ACB2B7AF9D5" /&gt;&lt;UnitTestElement Provider="MSTest" Id="MsTest:StubGenerator.Tests.MethodFakeTests.MethodHasDeclaration" ParentId="MsTest:StubGenerator.Tests.MethodFakeTests" type="MsTestTestMethodElement" MethodName="MethodHasDeclaration" TypeName="StubGenerator.Tests.MethodFakeTests" Project="B76C4F61-9725-4B43-A419-9ACB2B7AF9D5" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
 	
 	
 	
